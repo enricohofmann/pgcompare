@@ -10,4 +10,6 @@ Under `cmd/main.go` there is currently the script that compares two databases.
 * Posibility to have also a config file
 * Check only parts of the check
 * Script as a docker container
+* Detect which tupels in a table does not match, create a diff of single tupels
+
 
